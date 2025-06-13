@@ -4,6 +4,7 @@ A simple and interactive drawing web app built using HTML, CSS, and JavaScript. 
 
 ## 📸 Demo
 
+![image](https://github.com/user-attachments/assets/d43db31e-c393-4a93-9096-7d5efcd55cc7)
 
 ## 🛠️ Features
 
